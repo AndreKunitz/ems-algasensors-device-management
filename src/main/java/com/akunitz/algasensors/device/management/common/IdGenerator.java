@@ -1,4 +1,4 @@
-package com.akunitz.algasensors.device.management;
+package com.akunitz.algasensors.device.management.common;
 
 import io.hypersistence.tsid.TSID;
 
